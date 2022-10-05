@@ -45,3 +45,5 @@ public class AnimalController {
 
 interface AnimalRepository extends JpaRepository<Animals, Integer> {
 }
+
+// done
