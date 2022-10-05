@@ -24,3 +24,6 @@ public class Animals {
     }
 
 }
+
+// I know it should be "Animal" but since I did it like that when created Tabled
+// at H2 I let like that.
