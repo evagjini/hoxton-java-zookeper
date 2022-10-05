@@ -1,0 +1,9 @@
+2022-10-05 23:13:16 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ANIMAL" not found; SQL statement:
+INSERT INTO ANIMAL (ID, IS_HUNGRY, NAME, ORIGIN, SPECIES ) VALUES (1, 1, 'NERA', 'ALBANIA', 'CAT') [42102-214]
+2022-10-05 23:13:44 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ANIMAL" not found; SQL statement:
+INSERT INTO ANIMAL (ID, IS_HUNGRY, NAME, ORIGIN, SPECIES ) VALUES (1, 1, 'NERA', 'ALBANIA', 'CAT') [42102-214]
+2022-10-05 23:14:27 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ANIMAL" not found; SQL statement:
+INSERT INTO ANIMAL (ID, IS_HUNGRY, NAME, ORIGIN, SPECIES ) VALUES (1, 'YES', 'NERA', 'ALBANIA', 'CAT') [42102-214]
