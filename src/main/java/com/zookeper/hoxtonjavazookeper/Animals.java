@@ -25,5 +25,5 @@ public class Animals {
 
 }
 
-// I know it should be "Animal" but since I did it like that when created Tabled
+// I know it should be "Animal" but since I did it like that when created Table
 // at H2 I let like that.
